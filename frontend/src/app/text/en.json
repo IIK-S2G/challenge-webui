@@ -1,0 +1,61 @@
+{
+    "rulesTitle": "Rules/Regulations",
+    "rules": [
+        {
+            "id": 0,
+            "rule": "Under no circumstances is it allowed to attack the CTF portal!"    
+        },
+        {
+            "id": 1,
+            "rule": "None of the challenges require brute forcing servers. Do not perform brute force attacks on any of the CTF services unless specifically permitted by the challenge."
+        },
+        {
+            "id": 2,
+            "rule": "To solve a challenge, you'll have to find a flag. Most challenges will have a flag that looks like S2G{...} or something similar."
+        },
+        {
+            "id": 3,
+            "rule": "Each challenge has a given number of points, but the exact score depends on the amount of people that has solved the challenge before you. For each person that solves the challenge, the score value of that challenge will decrease."
+        },
+        {
+            "id": 4,
+            "rule": "Some of the challenges have hints. You can choose to use those if you are stuck, but it will take away points from your total score, even if you do not succeed on that particular challenge."
+        }
+    ],
+    "helpTitle": "Need help?",
+    "helpIngress": "Contact us on Discord, Teams, by mail or ask us on-site.",
+    "helpGjovik": {
+        "title": "Gjøvik",
+        "people": [
+            {
+                "name": "Bjørn Morten Moan",
+                "mail": "bjorn.m.moan@ntnu.no"
+            },
+            {
+                "name": "Eirik Hanasand",
+                "mail": "eirik.m.hanasand@ntnu.no"
+            },
+            {
+                "name": "Masrur Masqub Utash",
+                "mail": "masrur.m.utash@ntnu.no"
+            },
+            {
+                "name": "Jonny Ngo Luong",
+                "mail": "jonnynl@ntnu.no"
+            }
+        ]
+    },
+    "helpTrondheim": {
+        "title": "Trondheim",
+        "people": [
+            {
+                "name": "Shayan Alinejad",
+                "mail": "shayan.alinejad@ntnu.no"
+            },
+            {
+                "name": "Sondre Rishøi",
+                "mail": "sondrris@ntnu.no"
+            }
+        ]
+    }
+}

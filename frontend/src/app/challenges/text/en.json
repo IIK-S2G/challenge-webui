@@ -1,0 +1,10 @@
+{
+    "challenges": "Challenges",
+    "empty": "Found no challenges",
+    "error": "Error fetching challenges",
+    "submit": "Submit",
+    
+    "hint_start": "Unlock hint for ",
+    "hint_end": " points.",
+    "confirm": "Are you sure?"
+}

@@ -1,0 +1,16 @@
+{
+    "settings": "Settings",
+    "profile": "Profile",
+    "username": "Username",
+    "email": "Mail",
+    "current_password": "Current password",
+    "password": "Password",
+    "affiliation": "Affiliation",
+    "website": "Website",
+    "country": "Country",
+    "save": "Save",
+    
+    "token": "Token",
+    "expiration": "Expiration",
+    "generate": "Generate"
+}

@@ -1,0 +1,27 @@
+{
+    "error": "Failed to load profile",
+    "profile": "Profile",
+    "place": "place",
+    "points": "points",
+
+    "percentage": "Solve percentages",
+    "category_breakdown": "Category breakdown",
+    "solves": "Solves",
+    "fails": "Fails",
+    "osint": "OSINT",
+
+    "score_over_time": "Score over time",
+
+    "awards": "Awards",
+    "type": "Challenge",
+    "content": "Content",
+    "hint": "Hint",
+
+    "challenge": "Challenge",
+    "category": "Category",
+    "value": "Value",
+    "time": "Time",
+    "flag": "Flag",
+    "save": "Save",
+    "month": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+}

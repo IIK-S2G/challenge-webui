@@ -1,0 +1,61 @@
+{
+    "rulesTitle": "Regler",
+    "rules": [
+        {
+            "id": 0,
+            "rule": "CTF portalen skal aldri angripes."    
+        },
+        {
+            "id": 1,
+            "rule": "Ingen av utfordringene krever brute forcing. Ikke gjør brute force angrep med mindre du har fått eksplisitt tillatelse av utfordringen."
+        },
+        {
+            "id": 2,
+            "rule": "For å løse en utfordring må du finne et flag. De fleste utfordringer har flagg av typen S2G{...} eller noe lignende."
+        },
+        {
+            "id": 3,
+            "rule": "Hver utfordring har et spesifikt antall poeng. Likevel varierer det nøyaktige antallet avhengig av hvor mange som har løst utfordringen før deg. Poengsummen blir lavere for hver person som løser utfordringen."
+        },
+        {
+            "id": 4,
+            "rule": "Noen utfordringer har hint. Du kan velge å bruke hint hvis du sitter fast, men dette koster poeng, selv om du ikke skulle klare å løse utfordringen."
+        }
+    ],
+    "helpTitle": "Trenger du hjelp?",
+    "helpIngress": "Kontakt oss på Discord, Teams, epost eller spør oss på et av arrangementene.",
+    "helpGjovik": {
+        "title": "Gjøvik",
+        "people": [
+            {
+                "name": "Bjørn Morten Moan",
+                "mail": "bjorn.m.moan@ntnu.no"
+            },
+            {
+                "name": "Eirik Hanasand",
+                "mail": "eirik.m.hanasand@ntnu.no"
+            },
+            {
+                "name": "Masrur Masqub Utash",
+                "mail": "masrur.m.utash@ntnu.no"
+            }
+        ]
+    },
+    "helpTrondheim": {
+        "title": "Trondheim",
+        "people": [
+            {
+                "name": "Jonny Ngo Luong",
+                "mail": "jonnynl@ntnu.no"
+            },
+            {
+                "name": "Shayan Alinejad",
+                "mail": "shayan.alinejad@ntnu.no"
+            },
+            {
+                "name": "Sondre Rishøi",
+                "mail": "sondrris@ntnu.no"
+            }
+        ]
+    }
+}

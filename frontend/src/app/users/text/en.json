@@ -1,0 +1,10 @@
+{
+    "users": "Users",
+    "empty": "Found no users",
+    "name": "Name",
+    "website": "Website",
+    "affiliation": "Affiliation",
+    "country": "Country",
+    "page": "Page",
+    "showall": "Show all"
+}
